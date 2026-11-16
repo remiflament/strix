@@ -2432,7 +2432,7 @@ wheels = [
 
 [[package]]
 name = "strix-agent"
-version = "1.7.1"
+version = "1.7.1+remi"
 source = { editable = "." }
 dependencies = [
     { name = "boto3" },
